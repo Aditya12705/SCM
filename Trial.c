@@ -8,4 +8,5 @@ int main()
 	printf("Addition: %d", a+b);
 	printf("Subtraction: %d", a-b);
 	printf("Multiplication: %d", a*b);
+	printf("Division: %d", a/b);
 }
