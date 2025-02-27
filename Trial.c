@@ -7,4 +7,5 @@ int main()
 	scanf("%d%d", &a, &b);
 	printf("Addition: %d", a+b);
 	printf("Subtraction: %d", a-b);
+	printf("Multiplication: %d", a*b);
 }
